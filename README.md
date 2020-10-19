@@ -77,7 +77,7 @@ The forking workflow involves multiple remote repositories, one of the repositor
 ### GitFlow WorkFlow
 Git flow is a workflow that allows safe continuos releases of the project. It allows work to continue event through releases and hotfixes. The general idea are used in specific ways that depend on the team and the type of project.
 
-![GitFlow](./GitFlow_1.png)
+![GitFlow](./GitFLow_1.png)
 
 The GitFlow Workflow I'll to explain in the next section:
 * The initial commit of the project is created on the master branch.
